@@ -1,0 +1,14 @@
+:root {
+  /* Font family */
+  --main-family: "Roboto Mono", monospace;
+  --headers-family: "Roboto Mono", monospace;
+  /* colors */
+  --main-color: #ffffff;
+  --secondery-color: #ffffffb3;
+  --primary-color: #f189ba;
+  /* font-size */
+  --main-size: 24px;
+  --section-title-size: 60px;
+  --service-title-size: 28px;
+  --nav-size: 18px;
+}
